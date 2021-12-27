@@ -1,0 +1,27 @@
+#head{
+    font-family: 'cookie' , cursive;
+    font-size: 50px;
+}
+
+body{
+    background-image: url("background op.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#line{
+    height: 0.5px;
+    width: 45%;
+    background-color: lightslategray;
+}
+
+.headd{
+    width: 250px;
+    margin-left: 30px;
+    font-size: large;
+}
+
+canvas{
+    margin-left: 500px;
+    margin-top: -150px;
+}
